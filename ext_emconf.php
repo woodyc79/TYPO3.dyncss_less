@@ -15,7 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
     'description' => 'DynCss-Parser',
     'category' => 'fe',
     'shy' => 0,
-    'version' => '0.7.9',
+    'version' => '0.8.0',
     'dependencies' => 'dyncss',
     'conflicts' => '',
     'priority' => '',
@@ -35,7 +35,7 @@ $EM_CONF[$_EXTKEY] = array(
     'constraints' => array(
         'depends' => array(
             'dyncss' => '0.8.0-0.8.99',
-            'typo3'  => '7.6.15-8.7.99'
+            'typo3'  => '7.6.15-9.9.99'
         ),
         'conflicts' => array(
         ),
